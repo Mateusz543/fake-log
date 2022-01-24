@@ -88,5 +88,14 @@
     "Aktywny": true,
     "Nauczyciel": true,
     "LoginId": 109
+
+    "Id": 11,
+    "Imie": "Mateusz",
+    "Nazwisko": "Grzybek",
+    "Kod": "MG",
+    "Aktywny": truem,
+    "Nauczyciel": truem,
+    "LoginId": 110
+
   }
 ]
